@@ -1,0 +1,24 @@
+GET http://localhost:8080/hello.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-09-04T094617.200.txt
+
+###
+
+GET http://localhost:8080/hello.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-09-04T093752.200.html
+
+###
+
+GET http://localhost:8080/hello.do
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-09-04T093646.200.txt
+
+###
+
